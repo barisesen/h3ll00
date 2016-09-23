@@ -1,0 +1,27 @@
+{
+  "name": "h3ll00",
+  "version": "1.0.0",
+  "description": "Hello world from Barış Esen",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/barisesen/h3ll00.git"
+  },
+  "keywords": [
+    "hello",
+    "barış"
+  ],
+  "author": "Barış Esen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barisesen/h3ll00/issues"
+  },
+  "homepage": "https://github.com/barisesen/h3ll00#readme"
+}
